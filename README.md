@@ -58,8 +58,6 @@ The docked bikes are used only by casuals, which seems pretty obvious.
 The members has a preference for the classic bike.
 
 
-![image](https://user-images.githubusercontent.com/96549926/179861696-c44b3b9e-08f4-4369-b9f0-507b4e38c74c.png)
-
 Duration
 
 We can find it by subtracting final and initial time. Creating a new column, with this new information.
