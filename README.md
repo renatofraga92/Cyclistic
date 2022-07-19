@@ -40,14 +40,36 @@ We've got 52,02 % of annual members and we're aiming to increase this number.
 
 Let's look for some patterns between those.
 
-There are 3 main variables we can analyze to get our answers:
+There are 2 main variables we can analyze to get our answers:
 - Type of bycicle (There are 3)
 - Duration of the ride
-- Distance traveled
 
-First, we gonna clean the data. We have the initial and end date/time of the trip, but not the total duration. Lets include this important information,
-as well as, the distance of the trip. We're given the lat and lgt of the ride, but not the total distance. We must include those informations by doing some
-calculations.
+First, we gonna clean the data. We have the initial and end date/time of the trip, but not the total duration. Lets include this important information.
+
+Type of bycicle
+
+There are 3:
+
+We can see what are the preferences of members and casuals
+
+![image](https://user-images.githubusercontent.com/96549926/179864027-be8bf4e0-946c-427a-91ce-98673007d656.png)
+
+The docked bikes are used only by casuals, which seems pretty obvious.
+The members has a preference for the classic bike.
+
+
+![image](https://user-images.githubusercontent.com/96549926/179861696-c44b3b9e-08f4-4369-b9f0-507b4e38c74c.png)
+
+Duration
+
+We can find it by subtracting final and initial time. Creating a new column, with this new information.
+
+
+
+
+
+
+
 
 
 
