@@ -62,9 +62,30 @@ Duration
 
 We can find it by subtracting final and initial time. Creating a new column, with this new information.
 
+Making a column graph we can have this following visual:
+
+![image](https://user-images.githubusercontent.com/96549926/180618337-40005d00-2d00-4c24-bf2f-d3bf941214bc.png)
 
 
+It shows us that, not only the casual have more number of trips, but they also have bigger duration of the rides.
 
+
+Now, lets remind some questions we've been asked.
+
+How do casual and members use our bikes differently?
+R- Casuals has the docked bike as exclusive. Not only that, they are in bigger number of rides and the duration of the rides.
+
+How would Casuals would buy the annual membership?
+R- The company must focus on bring the benefits to the casuals who uses Cyclistcs more often. The numbers shows us that there are a lot of potential clients,
+through the study of the duration the trips. For sure the number of different people who uses the bike is very very higher than the casuals. The data doesn't shows
+it to us, but it is comprehensive, if there aren't a cadastration for casuals riders. Another insight we can get through the data is that the revenue for the casuals
+are bigger than the membership. The company will increase this revenue bringing those people who uses Cyclistic more often.
+
+How the company can use digital media to influence casual riders to become a member?
+R- It can use to bring the benefits of becoming a member rider
+
+
+Link to the files which were used in the analysis https://1drv.ms/u/s!Am_rbw_sYFru634m8PDSTmkb-_d0?e=3ZuTMn
 
 
 
