@@ -28,9 +28,6 @@ https://divvy-tripdata.s3.amazonaws.com/index.html
 
 To have a first contact with the data set, let's simply open it with Microsoft Excel
 
-The table contains the folllowing columns::
-ride_id	rideable_type	started_at	ended_at	start_station_name	start_station_id	end_station_name	end_station_id	start_lat	start_lng	end_lat	end_lng	member_casual
-![image](https://user-images.githubusercontent.com/96549926/179628146-b092c10c-209f-44e2-99fb-10cb264862a4.png)
 
 Let's start comparing casual vs annual members::
 
